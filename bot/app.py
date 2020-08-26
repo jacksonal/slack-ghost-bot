@@ -12,7 +12,12 @@ delete_responses = [
     "I hope no one saw that.",
     ";)",
     "It's for the best, really.",
-    "Aw shit. Here we go again."
+    "Aw shit. Here we go again.",
+    "WAIT! WHAT DID YOU SAY!?",
+    "Did you make a typo?",
+    "Where da text at?!",
+    "if you can't say something nice, don't say nothin' at all",
+    "THE GHOST KNOWS! THE GHOST ALWAYS WATCHING"
 ]
 
 def send_text_response(event, response_text):
